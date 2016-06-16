@@ -4,19 +4,16 @@ public class Zx{
 
 		System.out.println("Hello zhongxin");
 		System.out.println("Hello xinqing");
-		System.out.println("ĞÄÇé²»ºÃ");
-		System.out.println("ÆÆÌìÆø");
+		System.out.println("å¿ƒæƒ…ä¸å¥½");
+		System.out.println("ç ´å¤©æ°”");
 
-<<<<<<< HEAD
-		System.out.println("ÄãºÃ£¬ÇçÌì");
-		System.out.println("ÄãÈô°²ºÃ£¬±ãÊÇÇçÌì");
-=======
+		System.out.println("ä½ å¥½ï¼Œæ™´å¤©");
+		System.out.println("ä½ è‹¥å®‰å¥½ï¼Œä¾¿æ˜¯æ™´å¤©");
 		System.out.println("koashi");
-		System.out.println("¿¼Íê»Ø¼Ò");
+		System.out.println("è€ƒå®Œå›å®¶");
 
-		System.out.println("ĞÇÆÚÌìÓ¢ÓïÈı¼¶");
-		System.out.println("ĞÇÆÚÁù°ì¹«Èí¼ş");
->>>>>>> qin
+		System.out.println("æ˜ŸæœŸå¤©è‹±è¯­ä¸‰çº§");
+		System.out.println("æ˜ŸæœŸå…­åŠå…¬è½¯ä»¶");
 
 	}
 }
