@@ -1,2 +1,0 @@
-# AndroidClass
-homework
